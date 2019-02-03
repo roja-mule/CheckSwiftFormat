@@ -15,4 +15,6 @@ class ViewController: UIViewController {
     }
 
     func sampleFunc() {}
+
+    func sampleFunc2() {}
 }
